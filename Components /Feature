@@ -1,0 +1,11 @@
+ESP8266 Wi-Fi module (e.g., ESP-01, NodeMCU)
+DHT11 temperature and humidity sensor
+OLED display (e.g., SSD1306)
+Jumper wires
+Breadboard
+Power source (USB cable or battery)
+Features:
+Measures temperature and humidity using the DHT11 sensor.
+Displays the temperature and humidity readings on the OLED display.
+Connects to Wi-Fi network to enable remote monitoring.
+Provides a simple and low-cost solution for monitoring indoor weather conditions.
