@@ -1,0 +1,8 @@
+his Arduino project demonstrates how to build a simple IoT weather station using an ESP8266 module and a DHT11 sensor. By measuring temperature and humidity and displaying the data on an OLED display, the project provides a convenient way to monitor indoor weather conditions. With careful bug review and testing, the project can be further improved for reliability and accuracy.
+
+Feel free to modify and extend this project according to your requirements and preferences.
+
+
+
+
+
