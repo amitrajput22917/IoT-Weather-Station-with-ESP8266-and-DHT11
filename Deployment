@@ -1,0 +1,3 @@
+Connect the components according to the wiring diagram.
+Upload the code to the ESP8266 board using the Arduino IDE.
+Power up the device and monitor the temperature and humidity readings on the OLED display.
